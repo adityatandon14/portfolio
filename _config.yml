@@ -4,7 +4,7 @@
 title: My Resume
 url: 'https://github.com/adityatandon14/portfolio'
 
-theme_skin: blue # blue turquoise green berry orange ceramic
+theme_skin: berry # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
