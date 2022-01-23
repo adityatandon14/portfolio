@@ -66,7 +66,7 @@ education:
 
 experiences:
     - role: Deep Learning Intern
-      time: JAug2021 - Sept2021
+      time: Aug2021 - Sept2021
       company: Hewelette Packard Enterprise |HPE , remotely
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -80,9 +80,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Academic Intern 
+      time: June2021 - Sept2021
+      company: NUS, Singapore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -91,9 +91,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Development Intern
+      time: Aug2020 - Nov2020
+      company: Indian Air Force, Bagdogra
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
