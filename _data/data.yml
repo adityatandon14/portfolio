@@ -49,57 +49,41 @@ career-profile:
     career-profile:
     title: Career Profile
     summary: |
-             <b>Batchelor of Technology(Btech) student at MIT Manipal</b> in the <b>ECE Department</b> with a specialisation in Data Science. Previously, <b>Deep Learning Intern at NUS(National University of Singapore</b> .
+             <b>Batchelor of Technology(Btech) student at MIT Manipal</b> in the <b>ECE Department</b> with a specialisation in Data Science. Previously, Deep Learning Intern at NUS(National University of Singapore .
              Passionate about applications of data science and machine learning in field of Fintech and large-scale services. 
       
              Keen interests in - <b>Data Science and analytics, Machine Learning, Artificial Intelligence and Cloud Computing</b>.
 
-             [[PDF version of resume]](https://drive.google.com/file/d/15vjuzJ9VJF8SnSxZhH4sAocZfAcY8_Uu/view?usp=sharing) [[Transcripts]](https://drive.google.com/file/d/1rweWc2qImcrxRKoqFI8hWfE1zHNYhozI/view?usp=sharing) [[MOOCs]](https://drive.google.com/file/d/1XEYlq4S8ipQcEYm-joAS0v68AZkhN-PC/view?usp=sharing)
+             [[PDF version of resume]](https://drive.google.com/file/d/1Tj7_DsYtppdCB6EjDfTKIhp4qYzAP3eC/view?usp=sharing) [[MOOCs]](https://drive.google.com/file/d/1XEYlq4S8ipQcEYm-joAS0v68AZkhN-PC/view?usp=sharing)
 
 education:
     
-    - degree: B.Tech in Electronics And Communication
+    - degree: B.Tech in Electronics And Communication with Minors in Data Science
       university: Manipal Institute of Technology, Manipal 
       grade: CGPA - 8.8/10.00
       time: 2019 - 2023
-      details: |
+      details:
 
 experiences:
     - role: Deep Learning Intern
       time: Aug2021 - Sept2021
       company: Hewelette Packard Enterprise |HPE , remotely
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        This intership was a part of my research at NUS, wherein I worked in a team of 5 to implement autocompletion of Legal Documentation Problem
           - Bullet point
           - Bullet point
     - role: Academic Intern 
       time: June2021 - Sept2021
       company: NUS, Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here
           - Bullet point
           - Bullet point
     - role: Software Development Intern
       time: Aug2020 - Nov2020
       company: Indian Air Force, Bagdogra
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Describe your role here 
           - Bullet point
           - Bullet point
 projects:
