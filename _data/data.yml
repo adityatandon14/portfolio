@@ -96,13 +96,13 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Quadcopter Drone
+        link: "https://drive.google.com/file/d/1j6rHkccbrX1w59ElGI0H8hD_1eFL9ILg/view?usp=sharing"
+        tagline: "I made a quadcopter with my roomate, programmed it on ardupilot and rasberry-pi, Made a ComputerVision project that can identify human faces. "
 
-      - title: Tempo
+      - title: Sentimental Analysis on Twitter comments
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: ""
 
       - title: Atom
         link: "#"
