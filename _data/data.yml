@@ -69,23 +69,22 @@ experiences:
       time: Aug2021 - Sept2021
       company: Hewelette Packard Enterprise |HPE , remotely
       details: |
-        This intership was a part of my research at NUS, wherein I worked in a team of 5 to implement autocompletion of Legal Documentation Problem
-          - Bullet point
-          - Bullet point
+        This internship was a part of my Academic research at NUS.
+        I worked in a team of 5 to develop autocompletion software that reduces lawyers workload. It trains on a corpus of 5000 legal documents, and can quite accurately predict the sentences, it reduces the time required by lawyers to complete document exponentially. The link can be found [[here]]().
     - role: Academic Intern 
       time: June2021 - Sept2021
       company: NUS, Singapore
       details: |
-        Describe your role here
-          - Bullet point
-          - Bullet point
+        Topic: Data Analytics using Deep Learning
+Associated with Dr TAN Wee Kek, Dr LEK Hsiang Hui and Dr Amirhassan Monajemi
+The aim of the project was Optimization of Portfolio and to achieve maximum returns from the graph generated from applying machine learning algorithms to past stock data. We followed a 2 step approach that involved Markovitz Theory and used Efficient Frontier analysis to create a minimum risk portfolio. Our project outperformed the stock market and could give returns up to 60 percent with the least volatility.
+It's not open source yet, ping me if you want to have a look at the code.
+
     - role: Software Development Intern
       time: Aug2020 - Nov2020
       company: Indian Air Force, Bagdogra
       details: |
-        Describe your role here 
-          - Bullet point
-          - Bullet point
+        Designed, built, and deployed a MERN stack Web application used by Unit Run Canteen (URC) Bagdogra canteen to onboard new users, online shopping, and queue management during Covid.
 projects:
     title: Projects
     intro: >
