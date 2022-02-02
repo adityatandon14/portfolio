@@ -76,9 +76,9 @@ experiences:
       company: NUS, Singapore
       details: |
         Topic: Data Analytics using Deep Learning
-Associated with Dr TAN Wee Kek, Dr LEK Hsiang Hui and Dr Amirhassan Monajemi
-The aim of the project was Optimization of Portfolio and to achieve maximum returns from the graph generated from applying machine learning algorithms to past stock data. We followed a 2 step approach that involved Markovitz Theory and used Efficient Frontier analysis to create a minimum risk portfolio. Our project outperformed the stock market and could give returns up to 60 percent with the least volatility.
-It's not open source yet, ping me if you want to have a look at the code.
+        Associated with Dr TAN Wee Kek, Dr LEK Hsiang Hui and Dr Amirhassan Monajemi
+        The aim of the project was Optimization of Portfolio and to achieve maximum returns from the graph generated from applying machine learning algorithms to past stock data. We followed a 2 step approach that involved Markovitz Theory and used Efficient Frontier analysis to create a minimum risk portfolio. Our project outperformed the stock market and could give returns up to 60 percent with the least volatility.
+        It's not open source yet, ping me if you want to have a look at the code.
 
     - role: Software Development Intern
       time: Aug2020 - Nov2020
