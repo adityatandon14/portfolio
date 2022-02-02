@@ -73,7 +73,7 @@ experiences:
         I worked in a team of 5 to develop autocompletion software that reduces lawyers workload. It trains on a corpus of 5000 legal documents, and can quite accurately predict the sentences, it reduces the time required by lawyers to complete document exponentially. The link can be found [[here]]().
     - role: Academic Intern 
       time: June2021 - Sept2021
-      company: NUS, Singapore
+      company: NUS(National Univeristy of Singapore), Singapore
       details: |
         Topic: Data Analytics using Deep Learning
         Associated with Dr TAN Wee Kek, Dr LEK Hsiang Hui and Dr Amirhassan Monajemi
