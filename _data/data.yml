@@ -100,7 +100,7 @@ projects:
 
       - title: Sentimental Analysis on Twitter comments
         link: "#"
-        tagline: ""
+        tagline: "User Bert to make a sentimental analysis on suiside prevention, took dataset from reddit"
 
       - title: Atom
         link: "#"
@@ -148,7 +148,10 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: 
+      - name: R Programming
+        level: 85%
+        
+      - name: SQL
         level: 85%
 
       - name: Decker & kubernetes
